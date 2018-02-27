@@ -7,6 +7,6 @@ public class Main {
     }
 
     private static void printTheBestEditor() {
-        //todo: Implement
+        System.out.println("vim");
     }
 }
